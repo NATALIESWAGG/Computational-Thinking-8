@@ -5,6 +5,7 @@ from codesters import StageClass
 stage = StageClass()
 ###############################################
 stage.set_background("spring")
+
 q1 = codesters.Triangle(100,100,200, 'orange')
 q2 = codesters.Triangle(-100,100,200, 'purple')
 q3 = codesters.Triangle(-100,-100,200, 'red')
